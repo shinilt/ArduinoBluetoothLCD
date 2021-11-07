@@ -149,8 +149,7 @@ void command_clear()
   message_5 = "";
   message_4 = "";
   message_3 = "";
-  message_2 = "No more messages";
-  message_1 = "";
+  message_2 = "";
   }
 
 void command_backlightOff(){
